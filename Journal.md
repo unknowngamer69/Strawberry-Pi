@@ -16,3 +16,10 @@ Today was most confusing day, i got confused with dimension-position diagram of 
 
 **Total time spent: 50 minutes**
 ![Case Base](https://cdn.hackclub.com/01a0c052-4d37-790d-a03d-e372f557e787/image.png)
+
+## 17-09-2026 Did some changes in it (or basically redesigned it with more accurate dimensions and positions)
+Today i though of doing something fun, i though while making this and recording it in live, i should also do youtube live as well so i did, i setup youtube live and done all of thins along with it lol. Today first of all i did a very little changes in length side ports. After that i started doing breadth side ports, and i was confused like hell, like we have to take position of rectangle's center to inner cavity's edge or outer solid's edge, anyways i realised it has to be take from internal cavity's edge, reason is simple bcz the diagram we are refereing to had distance from edge of pcb, and edge of pcb will be in edge of internal cavity that's why. Now when i was doing it i was so much confused, mb bcz i was doing this project after 3 days? anyways, i felt like i a getting confised due to side ports holes, so uhh it migh sound crazy bit yes i re-sketched it that too half, but now i am clear with the things.
+
+
+**Total time spent: 1 Hour 55 minutes**
+![Case Base](https://cdn.hackclub.com/01a0c054-4467-7341-9395-1dad7e5aa0aa/image.png)
