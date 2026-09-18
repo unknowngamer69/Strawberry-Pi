@@ -23,3 +23,12 @@ Today i though of doing something fun, i though while making this and recording 
 
 **Total time spent: 1 Hour 55 minutes**
 ![Case Base](https://cdn.hackclub.com/01a0c054-4467-7341-9395-1dad7e5aa0aa/image.png)
+
+
+## 18-09-2026 90% of main completed
+Today i completed the port things for length so went according to diagram and i did this. After that i did the breadth side ports holes and it felt easy tbh mb because i was following the diagram properly. After all of this i did the port things for Microsd card for breadth side front part, and it was easy as well. After all of this i though, like the fan will thorw air out of case, so from where will air come, then i though of adding some extra rentangular holes so that air ventilates properly and pi keeps the cool, and eventually the when i add rectangular hole at the microsd card side port it, it looked like Minecraft's creeper's face lol so i made it more like creeper (even though i don't like minecraft CS2 is better,  CS= Counter strike here btw).
+After all of This in session 2 i started making case top/lid (yay finally) as usual (saying like i am 3+ yrs experienced cad designer lol) made 2 rectangle with soft/curved corners (i wanted to say something here but considering a female reviewer might get offended reading this so redeacted), and extruted the things, same 3 mm thick walls, then after that i made screws (easy peacy now i got comfortable doing these easy things). Then here comes boss thing for me today, making fan thing, damn man this was horror to me so i just made it randomly without maths and it looks terible and not very symmetric (i tired to make it look symmeteric but i failed)
+
+**Total time spent: 3 Hour 20 minutes**
+![Case Base](https://cdn.hackclub.com/01a0c056-5c24-7666-b329-5e15d8041f6e/image.png)
+![Case Top](https://cdn.hackclub.com/01a0c058-8132-71c1-83ea-6c75a20b6b5f/image.png)
