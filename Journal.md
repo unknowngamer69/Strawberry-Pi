@@ -32,3 +32,12 @@ After all of This in session 2 i started making case top/lid (yay finally) as us
 **Total time spent: 3 Hour 20 minutes**
 ![Case Base](https://cdn.hackclub.com/01a0c056-5c24-7666-b329-5e15d8041f6e/image.png)
 ![Case Top](https://cdn.hackclub.com/01a0c058-8132-71c1-83ea-6c75a20b6b5f/image.png)
+
+
+## 19-09-2026 Completed length side holes for ports
+
+I don't think i could do much things today, i was in train coming from my village to back to my home so A LOT of network drop in train man damn, and my teamate shocked my by suddenly changing dimension in Strawberry Pi, and due to this many extruded things port and all got affected, i first asked him about port, there were some changes in ports for bottom breadth side, that ethernet side, so i did changes according to that, also as per this i had to change top/lid part of main case so i did that, also of changes in fan thing due to this so i had to delete this i probably would need to do it tomorrow also i again tried to add the thing from bottom side of lid, to make screw thing little deeper again failed.
+
+**Total time spent: 1 Hour 45 minutes**
+![Case Base](https://cdn.hackclub.com/01a0c059-c04a-7134-8ef2-628039b4ab79/image.png)
+![Case Top](https://cdn.hackclub.com/01a0c05a-7102-7768-847b-3b7b94387b5b/image.png)
