@@ -4,6 +4,7 @@ author: "Unknown Gamer"
 description: "First time making a CAD Project and that too a cool case for Raspberry Pi 4 Model B Base with literal FEATURES!!!!!!"
 created_at: "07-09-2026 (DD/MM/YYYY) [Come on whole world uses this format not some weird American Format of mm/dd/yyyy and this is used throughout my project"
 ---
+time spent: ~ 15 hrs Total, for #thrid-Space- ~12 hours
 
 
 ### Quick Note:
@@ -41,3 +42,16 @@ I don't think i could do much things today, i was in train coming from my villag
 **Total time spent: 1 Hour 45 minutes**
 ![Case Base](https://cdn.hackclub.com/01a0c059-c04a-7134-8ef2-628039b4ab79/image.png)
 ![Case Top](https://cdn.hackclub.com/01a0c05a-7102-7768-847b-3b7b94387b5b/image.png)
+
+
+## 20-09-2026 Completed length side holes for ports
+
+Alright after coming back to home from Village, I did changes in Dimension (AGAIN) because my teammate failed at math (jk) and told me wrong dimensions, and it turned out that the original dimension is same as Raspberry Pi 4 lol, so i had to change dimensions of base and top, do you think only that will take 3.5 hrs+?? obviously not, also he gave me 3D model of Straberry Pi((he is so sweet yay :)) and due to which i didn't had to take approximation (i suck at it), so due to model some major changes in holes that boss thing in base and s=changes in bottom breadth side ports for ethernet and 1 more port idk what port it was he just said "make a hole for this one too" so i did that, then some changes in microsd card port holes too and length side ports too mainly position in it, and a major shock to me today, damn 8mm total heigh of PCB, yeah bcz there are some small things and circuits below PCB and considering it took 8mm heigh my god this is literally crazy, after all of these i did fan thing again with boss thing for attaching fan, today i used math to make the hole for fan thing yay its symmetric. Then I finaly made the deep thing for scrw for top case's top part's bottom side. After all of this, i wrote my and my teamate's name on lid, but then it looked cheap, then he shared image of pcb, he added some logo thing, in which there was a straberrylogo i liked it, i added logo in lid and traces it (damn it tested my patience) and also learned about line and tangent tool i used tangest tool alot for the logo and added a beautiful (atleast for me) branding of "Strawberry Pi".
+This is how V1 of Strawberry Pi is made Yay!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+important things regarding dimensions change --->
+![Chat Image](https://cdn.hackclub.com/01a0c060-3254-7366-8ac3-ead31ee90c9d/image.png)
+![Chat Image](https://cdn.hackclub.com/01a0c060-9dd3-721d-a5c6-e58c974cd80e/image.png)
+**Total time spent: 3 Hours 45 minutes**
+![Case Base](https://cdn.hackclub.com/01a0c05c-c1dd-73dc-bbfd-eb7be49631bd/image.png)
+![Case Top](https://cdn.hackclub.com/01a0c05d-a24b-7b62-92a0-066514f63fd6/image.png)
