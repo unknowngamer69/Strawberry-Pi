@@ -17,7 +17,12 @@ The future expansion and changes for this would be making and add modules/add-on
 --> Multi side rectangular Holes for Air flow and ventilation
 --> Proper holes for all ports with full accuracy
 
-# CHECK ![Strawberry Pi](https://github.com/GoTouchGra55/Strawberry_Pi) here
+## Links to all parts:
+--> [Assembled Model](https://cad.onshape.com/documents/5b8852d89b207a5990adb272/w/ee901cd16204bb3e0ad3aefb/e/c2c4a39e68a43a7a0d44e2d8?renderMode=0&uiState=6af4b1e253b9e54ef4195c76)
+--> [Lower Base](https://cad.onshape.com/documents/33a5e1db1dea3ac326a9996f/w/5b61d80efb7394f118129f63/e/0806b4eb3dd3cc108f208373)
+--> [Upper Base](https://cad.onshape.com/documents/5d18a541f183aa700a52bea3/w/c64488567c22dc6d3bd612d2/e/d80f5b284df7e5b570c42168?renderMode=0&uiState=6af4b2aa9d34894ea51a8956)
+
+## CHECK [Strawberry Pi](https://github.com/GoTouchGra55/Strawberry_Pi) here
 
 ## Authors 👥
 
